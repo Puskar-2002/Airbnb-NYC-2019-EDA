@@ -105,8 +105,8 @@ Structured notebook documentation
 Deployment-ready project preparation
 
 # 👤 Author
-
-Pushkar Sarkar
+Puskar Sarkar
+GitHub: https://github.com/Puskar-2002
 
 
 
